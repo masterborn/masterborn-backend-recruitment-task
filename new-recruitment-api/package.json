@@ -12,7 +12,7 @@
   "author": "MasterBorn",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.0.1",
+    "express": "^5.1.0",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   },
